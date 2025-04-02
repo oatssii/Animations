@@ -42,8 +42,8 @@ end
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "[FE] Animation Player",
-    LoadingTitle = "Loading Animation GUI...",
+    Name = "Animation Player",
+    LoadingTitle = "Loading your sigma animations",
     LoadingSubtitle = "Mangos mangos",
 })
 
